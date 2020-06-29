@@ -1,0 +1,3 @@
+org\example\redission\RedissonProperties.class
+META-INF\spring-configuration-metadata.json
+org\example\redission\RedissonAutoConfiguration.class
